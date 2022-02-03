@@ -1,0 +1,8 @@
+Cost: 2$
+
+echo startComboById./facebook.com
+echo getLoggedCookieBy.facebook.com./%date%
+echo getLoggedCookieBy.facebook.com./%ping%
+echo getLoggedCookieBy.facebook.com./%time%
+echo getLoggedCookieBy.facebook.com./%IpConnectedCookies%
+echo doneGetLoggedCookie./Cracks

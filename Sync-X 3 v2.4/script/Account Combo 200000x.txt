@@ -1,0 +1,8 @@
+Cost: 5$
+
+echo startProgram./Account_Combo_200000x./dso.verify(AccountValidityBy./web.roblox.com)(IF.not./loop)
+echo startProgram./Account_Combo_200000x./dso.verify(AccountValidityBy./web.roblox.com)(IF.not./loop)startProgram./Account_Combo_200000x./dso.verify(AccountValidityBy./web.roblox.com)(IF.log./logheo)
+echo start Combo.dso
+echo verifyAccountBy.(dso.verify)
+echo complete
+echo getToken./Cracks.txt
